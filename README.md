@@ -42,7 +42,7 @@
 
 <br/>
 
-&nbsp; <a href="www.linkedin.com/in/roquealejandro"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+&nbsp; <a href="https://www.linkedin.com/in/roquealejandro"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:alejandro.roque0716@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;
 
 </br>
